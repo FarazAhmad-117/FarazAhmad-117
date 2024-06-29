@@ -3,14 +3,6 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmad</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-<div style="display:flex;">
-  <img src="https://i.pinimg.com/originals/60/04/30/600430c1d22c731b94cf4e7dae6b398a.gif" alt="glowing_ball" />
-  <div>
-    <h2>Focus over Self Improvement</h2>
-    <h3>Is the only key to success</h3>
-  </div>
-</div>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farazahmad-117&label=Profile%20views&color=0e75b6&style=flat" alt="farazahmad-117" /> </p>
 
