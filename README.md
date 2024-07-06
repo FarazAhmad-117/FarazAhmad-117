@@ -21,6 +21,8 @@
 - 📫 How to reach me **farazahmad31048@gmail.com**
 
 - ⚡ Fun fact **I find life harder than coding**
+  
+- 😏 Here is my [Portfolio](https://farazahmad.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
