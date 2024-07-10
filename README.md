@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farazahmad-117&label=Profile%20views&color=0e75b6&style=flat" alt="farazahmad-117" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazahmad-117" alt="farazahmad-117" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazahmad-117&theme=gitdimmed" alt="farazahmad-117" /></a> </p>
 
 - 🔭 I’m currently working on [MobileBitz](https://mobilebitz.co.uk/)
 
