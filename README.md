@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazahmad-117&theme=gitdimmed" alt="farazahmad-117" /></a> </p>
 
-- 🔭 I’m currently working on [MobileBitz](https://mobilebitz.co.uk/)
+- 😎 I just finished [FoneCare](https://fonecaremanchester.com/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🔭 I’m currently working on [QCL](https://quickcashselling.sellyourtechuk.com/) and [OloPrint] 
 
-- 👯 I’m looking to collaborate on [AppWrite](https://github.com/FarazAhmad-117/appwrite)
+- 🌱 I’m currently making projects in **NextJS**
+
+- 👯 I’m not collaborating at all curently You can give recomendations [Send](mailto:farazahmad31048@gmail.com)
 
 - 🤝 I’m looking for help with [Break Time](https://github.com/FarazAhmad-117/break_time)
 
