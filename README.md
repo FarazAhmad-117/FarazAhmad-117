@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [QCL](https://quickcashselling.sellyourtechuk.com/)
 
-- 🌱 I’m currently making projects in **NextJS** major one is [Gidora](https://gidora-alpha.vercel.app)
+- 🌱 I’m currently making projects in **NextJS** major ones are [Gidora](https://gidora-alpha.vercel.app) and [Eduela](https://eduela.vercel.app)
 
 - 👯 I’m not collaborating at all curently You can give recomendations [Send](mailto:farazahmad31048@gmail.com)
 
