@@ -10,6 +10,8 @@
 
 - 😎 I just finished [FoneCare](https://fonecaremanchester.com/)
 
+- 📱 I recently completed [Aora](https://quickcashselling.sellyourtechuk.com/)
+
 - 🔭 I’m currently working on [QCL](https://quickcashselling.sellyourtechuk.com/)
 
 - 🌱 I’m currently making projects in **NextJS** major one is [Gidora](https://gidora-alpha.vercel.app)
