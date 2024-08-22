@@ -10,7 +10,7 @@
 
 - 😎 I just finished [FoneCare](https://fonecaremanchester.com/)
 
-- 📱 I recently completed [Aora](https://quickcashselling.sellyourtechuk.com/)
+- 📱 I recently completed a mobile application `Aora`. Here is android apk: [Aora](https://expo.dev/artifacts/eas/kc5dnok7oumPKjMzuAg8fD.apk)
 
 - 🔭 I’m currently working on [QCL](https://quickcashselling.sellyourtechuk.com/)
 
