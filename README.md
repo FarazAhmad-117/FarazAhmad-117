@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazahmad-117&theme=gitdimmed" alt="farazahmad-117" /></a> </p>
 
-- 😎 I just finished [FoneCare](https://fonecaremanchester.com/)
+- 😎 I just finished [QuickFix](https://accessories.quickfixmobiles.co.uk/)
 
 - 📱 I recently completed a mobile application `Aora`. Here is android apk: [Aora](https://expo.dev/artifacts/eas/kc5dnok7oumPKjMzuAg8fD.apk)
 
