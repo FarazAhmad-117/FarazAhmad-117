@@ -12,7 +12,7 @@
 
 - 📱 I recently completed a mobile application `Aora`. Here is android apk: [Aora](https://expo.dev/artifacts/eas/kc5dnok7oumPKjMzuAg8fD.apk)
 
-- 🔭 I’m currently working on [QCL](https://quickcashselling.sellyourtechuk.com/)
+- 🔭 I’m currently working on [QCL](https://quickcashbuy.sellyourtechuk.com/)
 
 - 🌱 I’m currently making projects in **NextJS** major ones are [Gidora](https://gidora-alpha.vercel.app) and [Eduela](https://eduela.vercel.app)
 
