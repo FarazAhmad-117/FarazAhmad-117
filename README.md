@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [QCL](https://quickcashbuy.sellyourtechuk.com/)
 
-- 🛸 Venturing into the world of **Web 3**. See the project [Here](https://kryptocean.vercel.app/)!
+- 🛸 Venturing into the world of **Web 3**. Here is [Kryptocean](https://kryptocean.vercel.app/)!
 
 - 🌱 I’m currently making projects in **NextJS** major ones are [Gidora](https://gidora-alpha.vercel.app) and [Eduela](https://eduela.vercel.app)
 
