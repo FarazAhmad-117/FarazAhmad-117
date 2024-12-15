@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazahmad-117&theme=gitdimmed" alt="farazahmad-117" /></a> </p>
 
-- 😎 I just finished [QuickFix](https://accessories.quickfixmobiles.co.uk/)
+- 😎 I just finished [Dashtar](https://dashtar-admin-sooty.vercel.app/login)
 
 - 📱 I recently completed a mobile application `Aora`. Here is android apk: [Aora](https://expo.dev/artifacts/eas/kc5dnok7oumPKjMzuAg8fD.apk)
 
-- 🔭 I’m currently working on [QCL](https://quickcashbuy.sellyourtechuk.com/)
+- 🔭 I’m currently working on [DEN](https://lms.digitalempowermentnetwork.org/)
 
 - 🛸 Venturing into the world of **Web 3**. Here is [Kryptocean](https://kryptocean.vercel.app/)!
 
@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with [Break Time](https://github.com/FarazAhmad-117/break_time)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** OR **Django** OR **NEXT** 
 
 - 📫 How to reach me **farazahmad31048@gmail.com**
 
