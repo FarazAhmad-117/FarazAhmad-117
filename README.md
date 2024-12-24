@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazahmad-117&theme=gitdimmed" alt="farazahmad-117" /></a> </p>
 
-- 😎 I just finished [Dashtar](https://dashtar-admin-sooty.vercel.app/login)
+- 😎 I just finished [Eduela](https://eduela.vercel.app)
 
 - 📱 I recently completed a mobile application `Aora`. Here is android apk: [Aora](https://expo.dev/artifacts/eas/kc5dnok7oumPKjMzuAg8fD.apk)
 
@@ -16,7 +16,7 @@
 
 - 🛸 Venturing into the world of **Web 3**. Here is [Kryptocean](https://kryptocean.vercel.app/)!
 
-- 🌱 I’m currently making projects in **NextJS** major ones are [Gidora](https://gidora-alpha.vercel.app) and [Eduela](https://eduela.vercel.app)
+- 🌱 I’m currently making projects in **NextJS** major ones are [Gidora](https://gidora-alpha.vercel.app)
 
 - 👯 I’m not collaborating at all curently You can give recomendations [Send](mailto:farazahmad31048@gmail.com)
 
