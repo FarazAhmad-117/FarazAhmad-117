@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with [Break Time](https://github.com/FarazAhmad-117/break_time)
 
-- 💬 Ask me about **MERN** OR **Django** OR **NEXT** 
+- 💬 Ask me about **MERN** OR **Django** OR **NEXT** OR **ASP.NET**
 
 - 📫 How to reach me **farazahmad31048@gmail.com**
 
