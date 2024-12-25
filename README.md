@@ -16,7 +16,7 @@
 
 - 🛸 Venturing into the world of **Web 3**. Here is [Kryptocean](https://kryptocean.vercel.app/)!
 
-- 🌱 I’m currently making projects in **NextJS** major ones are [Gidora](https://gidora-alpha.vercel.app)
+- 🌱 I’m currently making projects in **NextJS** major ones are [Gidora](https://gidora-alpha.vercel.app) and [Zetto](https://zetto.vercel.app/)
 
 - 👯 I’m not collaborating at all curently You can give recomendations [Send](mailto:farazahmad31048@gmail.com)
 
