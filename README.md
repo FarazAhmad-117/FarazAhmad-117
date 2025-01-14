@@ -12,7 +12,7 @@
 
 - 📱 I recently completed a mobile application `Aora`. Here is android apk: [Aora](https://expo.dev/artifacts/eas/kc5dnok7oumPKjMzuAg8fD.apk)
 
-- 🔭 I’m currently working on [DEN](https://lms.digitalempowermentnetwork.org/)
+- 🔭 I’m currently working on [DEN](https://digitalempowermentnetwork.org/)
 
 - 🛸 Venturing into the world of **Web 3**. Here is [Kryptocean](https://kryptocean.vercel.app/)!
 
