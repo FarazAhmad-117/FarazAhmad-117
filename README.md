@@ -43,14 +43,37 @@
 <div>
   <a href="https://www.buymeacoffee.com/farazahmad117"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farazahmad117" /></a>
 </div>
+
 <div>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 <a href="https://ko-fi.com/farazahmad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="farazahmad" /></a>
 </div>
 
+
+  <p align="center">
+
+<!-- <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a> -->
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarazAhmad-117&theme=nord_dark)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarazAhmad-117&theme=nord_dark)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarazAhmad-117&theme=nord_dark)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarazAhmad-117&theme=nord_dark)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FarazAhmad-117&theme=nord_dark)
+
+</p>
+
+
+
+
+<details open="">
+  <p align="center">
+   <a href="https://github.com/FarazAhmad-117/"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+  </p>
+</details>
+
 <br/><br/>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farazahmad-117&show_icons=true&locale=en&layout=compact" alt="farazahmad-117" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarazAhmad-117&show_icons=true&locale=en&layout=compact" alt="farazahmad-117" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farazahmad-117&show_icons=true&locale=en" alt="farazahmad-117" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarazAhmad-117&show_icons=true&locale=en" alt="farazahmad-117" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazahmad-117&" alt="farazahmad-117" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=FarazAhmad-117&" alt="farazahmad-117" /></p>
