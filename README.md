@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently making projects in **NextJS** major ones is [Gidora](https://gidora-alpha.vercel.app)
 
-- 👯 I’m not collaborating at all curently You can give recomendations [Send](mailto:farazahmad31048@gmail.com)
+- 👯 I’m not collaborating at all curently You can give recomendations any time [Send](mailto:farazahmad31048@gmail.com)
 
 - 🤝 I’m looking for help with [Break Time](https://github.com/FarazAhmad-117/break_time)
 
