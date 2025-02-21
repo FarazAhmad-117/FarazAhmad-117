@@ -30,6 +30,18 @@
   
 - 😏 Here is my [Portfolio](https://farazahmad.vercel.app/)
 
+# My Projects 🚀
+
+<details>
+  <summary>ChitCat (A real time messaging app)</summary>
+
+  - [GitHub Repository](https://github.com/FarazAhmad-117/chitchat)
+  - [Live Demo](https://chitchatpro.vercel.app/)
+  - **Tech Stack:** NextJS, Pusher, Prisma, MongoDB, Zustand  
+  - **Description:** A full-fledged messenger app for real time chat feature.
+
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faraz-ahmad-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faraz-ahmad-dev" height="30" width="40" /></a>
