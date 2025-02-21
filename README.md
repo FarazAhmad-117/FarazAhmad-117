@@ -37,7 +37,7 @@
 
   - [GitHub Repository](https://github.com/FarazAhmad-117/chitchat)
   - [Live Demo](https://chitchatpro.vercel.app/)
-  - **Tech Stack:** NextJS, Pusher, Prisma, MongoDB, Zustand  
+  - **Tech Stack:** NextJS, NextAuth, Pusher, Prisma, MongoDB, Zustand  
   - **Description:** A full-fledged messenger app for real time chat feature.
 
 </details>
