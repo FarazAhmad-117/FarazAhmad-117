@@ -86,6 +86,14 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarazAhmad-117&show_icons=true&locale=en&layout=compact" alt="farazahmad-117" /></div>
 
+  <br> <br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarazAhmad-117&show_icons=true&locale=en" alt="farazahmad-117" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=FarazAhmad-117&" alt="farazahmad-117" /></p>
+<br> <br>
+
+  <!--GitHub-Streak-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarazAhmad-117&theme=transparent" align="middle" alt="Faraz' Streak" />
+
+  <br> <br>
+
