@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazahmad-117&theme=gitdimmed" alt="farazahmad-117" /></a> </p>
 
-- 🚀 Founder of [LinqSync](https://linqsync.vercel.app) – A tool everyone needs but not mentions !
  
 - 😎 I just finished [Eduela](https://eduela.vercel.app) and [Zetto](https://zetto.vercel.app/)
 
