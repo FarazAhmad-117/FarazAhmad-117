@@ -59,7 +59,8 @@
 
 <div>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
-<a href="https://ko-fi.com/farazahmad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="farazahmad" /></a>
+<br/>
+ <a href="https://ko-fi.com/farazahmad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="farazahmad" /></a>
 </div>
 
 
