@@ -43,6 +43,16 @@
 
 </details>
 
+
+<details>
+  <summary>Geniusko (A Full Fledge AI Content Generation Platform)</summary>
+
+  - [Live Demo](https://geniusko.com/)
+  - **Tech Stack:** NextJS, Clerk, Open AI, Supabase, Tanstack Query, Zustand  
+  - **Description:** A full-fledged AI Content Generation Application providing utilities to businesses for easy and precise content generation.
+
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faraz-ahmad-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faraz-ahmad-dev" height="30" width="40" /></a>
