@@ -10,7 +10,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=farazahmad-117&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/farazahmad-117)
-[![Portfolio](https://img.shields.io/badge/Portfolio-farazahmad.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://farazahmad.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farazahmad.dev-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://farazahmad.dev/)
 [![Email](https://img.shields.io/badge/Email-farazahmad31048@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farazahmad31048@gmail.com)
 
 </div>
